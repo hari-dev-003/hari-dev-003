@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hari Dev</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p></p>
-<br>
+  
+- 🔭 I’m currently working on **Cluster-Config**
+
+- 🌱 I’m currently learning **ReactJs,NodeJS**
+
+- 👯 I’m looking to collaborate on **MERN Projects**
+
+- 💬 Ask me about **Html,CSS,JS,React**
+
+- 📫 How to reach me **hariharidev5@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-dev-003&label=Profile%20views&color=0e75b6&style=flat" alt="hari-dev-003" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[Hari Dev Vinothkumar](https://www.linkedin.com/in/hari-dev-vinothkumar-7a23972a1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari dev vinothkumar" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left"> Programming Languages</h3>
@@ -39,8 +52,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <br>
  </p>
-  <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-dev-003&show_icons=true&locale=en&layout=compact" alt="hari-dev-003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-dev-003&show_icons=true&theme=dark&locale=en&layout=compact" alt="hari-dev-003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-dev-003&show_icons=true&locale=en" alt="hari-dev-003" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-dev-003&show_icons=true&theme=dark&locale=en" alt="hari-dev-003" /></p>
