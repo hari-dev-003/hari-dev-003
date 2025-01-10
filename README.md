@@ -13,12 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-dev-003&label=Profile%20views&color=0e75b6&style=flat" alt="hari-dev-003" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[Hari Dev Vinothkumar](https://www.linkedin.com/in/hari-dev-vinothkumar-7a23972a1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari dev vinothkumar" height="30" width="40" /></a>
-</p>
-
-<br>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left"> Programming Languages</h3>
@@ -73,3 +67,11 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[Hari Dev Vinothkumar](https://www.linkedin.com/in/hari-dev-vinothkumar-7a23972a1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari dev vinothkumar" height="30" width="40" /></a>
+</p>
+
+<br>
+
