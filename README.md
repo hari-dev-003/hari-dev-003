@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 💬 Ask me about **Html,CSS,JS,React**
-
 - 📫 How to reach me **hariharidev5@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-dev-003&label=Profile%20views&color=0e75b6&style=flat" alt="hari-dev-003" /> </p>
