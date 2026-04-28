@@ -1,112 +1,164 @@
-<h1 align="center">Hi 👋, I'm Hari Dev Vinothkumar</h1>
-<h3 align="center">Web Developer | Cloud Practitioner | Tech enthusiast</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **AWS Cloud Services with Development**
-- 👯 I’m looking to collaborate on **Industry Standard Full Stack Projects**
-- 💬 Ask me about **React, Firebase, Cloud Services**
-- 📫 How to reach me: **haridevvinothkumar@outlook.com**
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:58a6ff&height=200&section=header&text=Hari%20Dev%20Vinothkumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Practitioner%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" alt="header" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hari-dev-003&label=Profile%20views&color=0e75b6&style=flat" alt="hari-dev-003" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+full-stack+applications;Cloud+architecture+on+AWS+%26+GCP;Open+to+collaborations+%26+new+ideas!;Let's+build+something+amazing+together+🚀" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hari-dev-003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://www.linkedin.com/in/haridev-vinothkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:haridevvinothkumar@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
-
-<h2 align="left">Languages and Tools</h2>
-
-<h3 align="left">Programming Languages</h3>
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;" align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-</div>
-
-<h3 align="left">Cloud Services</h3>
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;" align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_ec2/amazon_ec2-icon.svg" alt="aws-ec2" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" alt="aws-s3" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/cognito/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_cognito/amazon_cognito-icon.svg" alt="aws-cognito" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/compute" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_compute/google_compute-icon.svg" alt="google-compute-engine" width="40" height="40"/></a>
-</div>
-
-<h3 align="left">Frameworks and Libraries</h3>
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;" align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://socket.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" width="40" height="40"/></a>
-</div>
-
-<h3 align="left">Databases</h3>
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;" align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg" alt="dynamodb" width="40" height="40"/></a>
-</div>
-
-<h3 align="left">DevOps / IaC</h3>
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;" align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-</div>
-
-<h3 align="left">Version Control & Testing</h3>
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;" align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vitestdev/vitestdev-icon.svg" alt="vitest" width="40" height="40"/></a>
-</div>
-
-<h3 align="left">Other Environment and Tools</h3>
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;" align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+> *Passionate developer who loves turning complex problems into elegant solutions.*
+
+- 🌱 Currently deepening expertise in **AWS Cloud Services & Full-Stack Development**
+- 👯 Actively seeking collaboration on **Industry-Standard Full Stack Projects**
+- 🚀 Focused on building **scalable, cloud-native** web applications
+- 🛠️ Experienced with the **MERN stack**, **DevOps tooling**, and **serverless architectures**
+- 💬 Happy to discuss **React, Firebase, Cloud Services, or anything tech!**
+- 📫 Reach me at: **haridevvinothkumar@outlook.com**
+- ⚡ Fun fact: I enjoy exploring the intersection of **cloud infrastructure and frontend UX**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔤 Programming Languages
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-dev-003&show_icons=true&theme=dark&locale=en&layout=compact" alt="hari-dev-003" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
+### ☁️ Cloud Services
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-dev-003&show_icons=true&theme=dark&locale=en" alt="hari-dev-003" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/AWS_Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="Cognito"/>
+  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="Amplify"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
 </p>
+
+### ⚡ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+</p>
+
+### 🔧 DevOps & Infrastructure as Code
+<p>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
+
+### 🧰 Version Control, Testing & Other Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-dev-003&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hari-dev-003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-dev-003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hari-dev-003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎖️ Open Source Contributions — GSSoC '24
 
 <details>
-  <summary><b>GSSOC(24) Badges 🪶</b></summary>
-  <br>
-  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;" align="center">
+  <summary><b>🪶 GirlScript Summer of Code 2024 — Badges & Achievements</b></summary>
+  <br/>
+  <div align="center">
     <a href="https://gssoc.girlscript.tech/leaderboard">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" title="Postman Challenge" />
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" title="Level 1"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" title="Level 2"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" title="Level 3"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" title="Level 4"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" title="Level 5"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" title="Level 6"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" title="Level 7"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" title="Level 8"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" title="Code Luminary"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" title="Git Explorer"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" title="Pull Expert"/>
     </a>
   </div>
 </details>
 
-<br>
+---
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/haridev-vinothkumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haridev-vinothkumar" height="30" width="40" />
-  </a>
-</p>
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haridev-vinothkumar)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haridevvinothkumar@outlook.com)
+
+<br/>
+
+*"The best way to predict the future is to build it."*
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" alt="footer" />
